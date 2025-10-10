@@ -19,12 +19,12 @@
 
 // --- Wi-Fi ---
 const char *ssids[] = { "UBUNTU", "Tenda_5B0940" };
-const char *passwords[] = { "Qweasd2022#", "Qweasd2025" };
+const char *passwords[] = { "-------", "-------" };
 bool isWiFiConnected = false;
 
 // --- Telegram ---
-const String BOT_TOKEN = "7609327599:AAGPAdBOG1Mx9q8QZ8ReIbVfkQO0pvYU-5o";
-const String CHAT_ID = "8150043713";
+const String BOT_TOKEN = "--------";
+const String CHAT_ID = "----------";
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOT_TOKEN, client);
 
