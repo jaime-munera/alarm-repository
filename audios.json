@@ -1,8 +1,7 @@
 {
   "audios": [
-    "http://jaime-munera.github.io/alarm-repository/SoundHelix-Song-1.mp3",
-    "http://jaime-munera.github.io/alarm-repository/mensaje1.mp3",
-    "http://jaime-munera.github.io/alarm-repository/mensaje2.mp3",
-    "http://jaime-munera.github.io/alarm-repository/mensaje3.mp3"
+    "https://drive.google.com/uc?export=download&id=ID_MENSAJE1",
+    "https://drive.google.com/uc?export=download&id=ID_MENSAJE2", 
+    "https://drive.google.com/uc?export=download&id=ID_MENSAJE3"
   ]
 }
